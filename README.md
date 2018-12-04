@@ -23,8 +23,8 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 <h3> Operating conditions </h3>
 
 <b> Maximum Input Voltage </b>
-        * USB powered : 5V
-        * Vext = 1.8V to 3.3V
-        * Vbat = 
+* USB powered : 5V
+* Vext = 1.8V to 3.3V
+* Vbat = 
 <b> Power Ratings </b>
 * Max current through USB: 150mA 
