@@ -9,6 +9,7 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 
 <h3> Features </h3>
 
+* Raytac [MDBT50](https://www.raytac.com/product/ins.php?index_id=24) module based on [Nordic Semiconductor's nRf52840](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840)
 * [nRF52840 advanced single chip](https://www.raytac.com/product/ins.php?index_id=24) 2.4GHz multiprotocol SoC.
 * 32-bit ARM Cortex-M4F processor, 1MB flash + 256 kB RAM
 * external crystal oscillator 32.768MHZ, on-chip 32MHz
