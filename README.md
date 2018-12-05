@@ -11,6 +11,7 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 
 * nRF52840 advanced single chip 2.4GHz multiprotocol SoC.
 * 32-bit ARM Cortex-M4F processor, 1MB flash + 256 kB RAM
+* external crystal oscillator 32.768 MHZ, on-chip 32 MHz
 * Power Supply: USB, Lipo, Vext 1.8V - 3.3V
 * Built in 3.3V LDO for USB and Lipo
 * MicroSD slot
