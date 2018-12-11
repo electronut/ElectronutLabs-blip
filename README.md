@@ -1,7 +1,7 @@
 # ElectronutLabs-blip
 A Nordic nRF52840 dev board with sensors and built-in debugger, 
 
-![alt text](https://github.com/electronut/ElectronutLabs-blip/blob/master/blip.jpg "blip")
+![blip](blip.jpg)
 
 <h3> Overview and features </h3>
 
