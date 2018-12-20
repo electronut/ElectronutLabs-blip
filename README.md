@@ -1,13 +1,10 @@
-# ElectronutLabs-blip
-A Nordic nRF52840 dev board with sensors and built-in debugger, 
-
 ![blip](blip.jpg)
 
-<h3> Overview and features </h3>
+## Overview and features
 
 Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wireless applications, based on the Nordic Semiconductor nRF52840 SoC. It has a Black Magic Probe compatible programmer and debugger built-in along with temperature/humidity sensor, ambient light intensity sensor, and a 3-axis accelerometer. It is usable to prototype for very low power applications, and debugger and regulator can be disconnected when only SoC needs to be powered.
 
-<h3> Features </h3>
+## Features 
 
 * Raytac [MDBT50](https://www.raytac.com/product/ins.php?index_id=24) module based on [Nordic Semiconductor's nRF52840](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840)
 * nRF52840 advanced single chip 2.4GHz multiprotocol SoC.
@@ -24,13 +21,15 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 * On board STM32F103CBT6 Black magic probe debugger.
 
 
-<h3> Operating conditions </h3>
+## Operating conditions
 
-<b> Maximum Input Voltage </b>
+**Maximum Input Voltage**
+
 * USB powered : 5V
 * Vext = 1.8V to 3.3V
 * Vbat = 
 
-<b> Power Ratings </b>
+**Power Ratings**
+
 * Max current through USB: 150mA 
 
