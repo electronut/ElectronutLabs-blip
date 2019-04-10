@@ -2,7 +2,7 @@
 
 ## Overview and Features
 
-Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wireless applications, based on the Nordic Semiconductor nRF52840 SoC. It has a Black Magic Probe compatible programmer and debugger built in, along with temperature/humidity sensor, ambient light intensity sensor, and a 3-axis accelerometer. It can be used to prototype very low power device. It also has provision for SD card slot, which makes it a complete and versatile development board.
+Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wireless applications, based on the Nordic Semiconductor nRF52840 SoC. It has a Black Magic Probe compatible programmer and debugger built in, along with temperature/humidity sensor, ambient light intensity sensor, and a 3-axis accelerometer. It can be used to prototype very low power devices. It also has provision for an SD card slot, which makes it a complete and versatile development board.
 
 ## Features 
 
