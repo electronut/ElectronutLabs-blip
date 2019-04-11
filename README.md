@@ -11,6 +11,7 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 * Optical Sensor LTR-329ALS-01
 * Si7006-A20 I2C humidity and temperature sensor
 * On board STM32F103CBT6 as Black magic probe debugger
+* NFC Antenna
 * MicroSD slot
 * Power Supply: USB, JST connector for Li-ion/Li-po
 * BQ24079 battery charging and power management IC
