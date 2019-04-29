@@ -26,6 +26,9 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 
 **Power Ratings**
 
-* Max current through USB: 150mA (for charging and/or system power)
+* Max battery charging current : 150mA
 * When powering with Vext, the debugger, charging IC, and LDO are bypassed for low current consumption
 
+## Purchasing Blip
+
+Currently you can pre-order Blip by visiting this page - [Blip pre-order](https://electronut.in/products/blip/).
