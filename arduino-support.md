@@ -5,7 +5,7 @@ based on Adafruit's [nRF52 core](https://github.com/adafruit/Adafruit_nRF52_Ardu
 which is forked from [Sandeep Mistry's](https://github.com/sandeepmistry/arduino-nRF5)
 Arduino core for Nordic Semiconductor chips.
 
-### Installtion
+### Installation
 
 1. Download and install Arduino IDE (at least v1.6.12) from [Arduino website](https://www.arduino.cc/en/Main/Software).
 2. Start the IDE
@@ -28,10 +28,15 @@ Any code compiled right now requires [Nordic Semiconductor's](http://nordicsemi.
 nRF52840 chip. This needs to be programmed only once while using arduino.
 To do this, click on `Tools -> Burn bootloader` menu option.
 
-Note about `Serial` and `Serial1`: In this arduino core, `Serial` is the
+Note about serial ports: In this arduino core, `Serial` is the
 serial port that comes up when you plug in the secondary USB port of
 blip to your computer. This one is USB device peripheral of the nRF52840
-chip.
+chip. `Serial1` is the actual UART peripheral of nRF52840 SoC, and it is
+connected to the Debugger's serial port (which comes up as the second 
+serial port on your computer). In Arduino IDE, you have to select the 
+first port for programming; this means serial montor will not work with 
+that one. To use serial monitor, you can switch to the second port
+temporarily.
 
 ### Pin mapping
 

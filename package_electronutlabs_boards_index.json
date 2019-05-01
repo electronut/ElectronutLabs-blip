@@ -3,7 +3,7 @@
     {
       "name": "electronutlabs",
       "maintainer": "Electronut labs", 
-      "websiteURL": "https://github.com/electronut/ElectronutLabs-bluey", 
+      "websiteURL": "https://electronut.in/",
       "email": "info@electronut.in", 
       "help": {
         "online": "https://electronut.in/"
@@ -19,8 +19,8 @@
           },
           "url":"https://github.com/electronut/blip_arduino/archive/v0.1.0.zip",
           "archiveFileName":"v0.1.0.zip",
-          "checksum":"SHA-256:1f77275db64182ed94a7bbd6d18e720b5f9eec65ae4cf171f5736aa73177001f",
-          "size": "18849947",
+          "checksum":"SHA-256:408f3755041ef9ad60ae67ed9e55a7c7f94398c3dfc37c2cd4b29fdaf222ed6a",
+          "size": "18850036",
           "boards":[ 
                 {"name": "Electronut Labs Blip"}
           ],
