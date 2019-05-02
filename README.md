@@ -29,6 +29,22 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 * Max battery charging current : 150mA
 * When powering with Vext, the debugger, charging IC, and LDO are bypassed for low current consumption
 
+## Blip Dimensions
+
+![dimesions](blip_board_dimensions.png)
+
+![componentmarkings](blip_components_marking.png)
+
+## Repository
+
+You can find sample firmware, datsheet images etc. at the link below:
+
+https://github.com/electronut/ElectronutLabs-blip/
+
 ## Purchasing Blip
 
-Currently you can pre-order Blip by visiting this page - [Blip pre-order](https://electronut.in/products/blip/).
+Currently you can pre-order Blip by visiting this page - [Blip pre-order](https://electronut.in/products/blip/). Please email us at **info@electronut.in** if you have any questions.
+
+## About Electronut Labs
+
+**Electronut Labs** is an Embedded Systems company based in Bangalore, India. More information at our [website](https://electronut.in).
