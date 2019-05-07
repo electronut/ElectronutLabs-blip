@@ -12,6 +12,39 @@
         {
           "name": "Electronut labs nRF52840 boards",
           "architecture": "nRF52", 
+          "version": "0.1.1", 
+          "category": "Contributed", 
+          "help":{
+            "online":"https://github.com/electronut/ElectronutLabs-blip/issues"
+          },
+          "url":"https://github.com/electronut/blip_arduino/archive/v0.1.1.zip",
+          "archiveFileName":"v0.1.1.zip",
+          "checksum":"SHA-256:4d6c59400bcafdde990e58adf990eb936e6926742189255fe949905800e7c612",
+          "size": "18850065",
+          "boards":[ 
+                {"name": "Electronut Labs Blip"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "electronutlabs",
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
+            },
+            {
+              "packager": "electronutlabs",
+              "name": "openocd",
+              "version": "0.10.0-dev.nrf5"
+            },
+            {
+              "packager": "electronutlabs", 
+              "name": "nrfutil",
+              "version": "0.5.2-SFE"
+            }
+          ]
+        },
+        {
+          "name": "Electronut labs nRF52840 boards",
+          "architecture": "nRF52", 
           "version": "0.1.0", 
           "category": "Contributed", 
           "help":{
