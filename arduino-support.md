@@ -83,3 +83,33 @@ the pin mapping:
     MISO         pin 26
     MOSI         pin 23
     SCK          pin 27
+
+### Troubleshooting
+
+A known issue with blip is that sometimes the debugger is not able to detect the 
+nRF52840 chip when it scans. This happens rarely, and there is a manual fix for
+that. 
+
+**Option 1**: One can either repeatedly try uploading (which takes time if
+compiling), or by trying 'Burn bootloader' (Alt+T, then Up, then enter). If you
+can run `arm-none-eabi-gdb` directly, you can run it like in the following 
+terminal capture. First we specify the GDB serial port (which is the first port
+detected when Blip is connected to your computer) using `tar ext <GDB port>`.
+Next, try scanning using the command `mon swdp_scan`. Keep on pressing enter
+till the chip is detected:
+
+Following is output when chip is not detected:
+```bash
+$ arm-none-eabi-gdb
+GNU gdb (GNU Tools for Arm Embedded Processors 7-2018-q3-update) 8.1.0.20180315-git
+...
+...
+>>> tar ext /dev/ttyACM0
+Remote debugging using /dev/ttyACM0
+>>> mon swdp_scan
+Target voltage: unknown
+SW-DP scan failed!
+```
+
+Following is output when it gets detected:
+```bash
