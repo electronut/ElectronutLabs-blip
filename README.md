@@ -37,9 +37,7 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 
 ## Repository
 
-You can find sample firmware, datsheet images etc. at the link below:
-
-https://github.com/electronut/ElectronutLabs-blip/
+You can find sample firmware, datasheet, images etc. on its [repository](https://gitlab.com/electronutlabs-public/ElectronutLabs-blip).
 
 ## Purchasing Blip
 

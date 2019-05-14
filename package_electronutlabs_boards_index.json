@@ -15,7 +15,7 @@
           "version": "0.1.1", 
           "category": "Contributed", 
           "help":{
-            "online":"https://github.com/electronut/ElectronutLabs-blip/issues"
+            "online":"https://gitlab.com/electronutlabs-public/ElectronutLabs-blip/issues"
           },
           "url":"https://github.com/electronut/blip_arduino/archive/v0.1.1.zip",
           "archiveFileName":"v0.1.1.zip",
@@ -48,7 +48,7 @@
           "version": "0.1.0", 
           "category": "Contributed", 
           "help":{
-            "online":"https://github.com/electronut/ElectronutLabs-blip/issues"
+            "online":"https://gitlab.com/electronutlabs-public/ElectronutLabs-blip/issues"
           },
           "url":"https://github.com/electronut/blip_arduino/archive/v0.1.0.zip",
           "archiveFileName":"v0.1.0.zip",

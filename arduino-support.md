@@ -10,7 +10,7 @@ Arduino core for Nordic Semiconductor chips.
 1. Download and install Arduino IDE (at least v1.6.12) from [Arduino website](https://www.arduino.cc/en/Main/Software).
 2. Start the IDE
 3. Go into preferences
-4. Add `https://raw.githubusercontent.com/electronut/ElectronutLabs-blip/master/package_electronutlabs_boards_index.json` as an "Additional Board Manager URL"
+4. Add `https://gitlab.com/electronutlabs-public/ElectronutLabs-blip/raw/master/package_electronutlabs_boards_index.json` as an "Additional Board Manager URL"
 5. Open the Boards Manager from the Tools -> Board menu and search/install "Electronut labs nRF52840 Boards"
 6. Select 'Electronut labs Blip' from the `Tools -> Board menu`
 7. Select 'Black Magic Probe (GDB)' from the `Tools -> Programmer` menu
