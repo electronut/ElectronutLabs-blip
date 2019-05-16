@@ -29,6 +29,12 @@ Blip is a development board for Bluetooth Low Energy (BLE) and 802.15.4 based wi
 * Max battery charging current : 150mA
 * When powering with Vext, the debugger, charging IC, and LDO are bypassed for low current consumption
 
+## Datasheet and schematic
+
+You can find the schematic and datasheet in the links below:
+
+* [Schematic](https://gitlab.com/electronutlabs/products/blip/blip-hardware/raw/master/pcb/blip/ver0.3/blip.pdf?inline=false)
+
 ## Blip Dimensions
 
 ![dimesions](blip_board_dimensions.png)
